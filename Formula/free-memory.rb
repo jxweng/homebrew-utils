@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class Free-Memory < Formula
+class FreeMemory < Formula
   desc ""
   homepage "https://github.com/jxweng/Utilities"
   url "https://raw.githubusercontent.com/jxweng/Utilities/main/cli/free-memory"
