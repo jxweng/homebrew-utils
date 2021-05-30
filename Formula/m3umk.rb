@@ -1,7 +1,7 @@
 # Documentation: https://docs.brew.sh/Formula-Cookbook
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
-class M3UMK < Formula
+class M3umk < Formula
   desc ""
   homepage "https://github.com/jxweng/Utilities"
   url "https://raw.githubusercontent.com/jxweng/Utilities/main/cli/m3umk"
